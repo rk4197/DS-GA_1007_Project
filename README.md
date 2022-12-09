@@ -1,4 +1,4 @@
-# Analyzing NYC Rolling Sales from 2003-2022
+# EDA: NYC Rolling Sales from 2003-2022
 
 This is the GitHub repository for the Course Project of the 2022 DS-GA 1007 - Programming for Data Science discipline from the Master of Science in Data Science from New York University.
 
